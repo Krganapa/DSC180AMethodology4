@@ -1,5 +1,4 @@
 # 1) choose base container
-# generally use the most recent tag
 
 # data science notebook
 # https://hub.docker.com/repository/docker/ucsdets/datascience-notebook/tags
